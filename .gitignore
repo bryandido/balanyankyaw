@@ -3,5 +3,6 @@ dev.js
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
+.ebextensions/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
